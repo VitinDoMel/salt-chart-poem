@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/VitinDoMel/salt-chart-poem/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 [![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/VitinDoMel/salt-chart-poem/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
-A program that writes one short poem about agency: two navigators, one chart, and the moment one hands the other the course.
+A program that writes one short poem about agency: at 2 a.m. one agent draws the straighter line and the other presses Return.
 
 ## Run it
 
